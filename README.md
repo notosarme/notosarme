@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l46Ck4CGc762ion28/giphy.gif" width="300"/>
+</div>
 
 <!--
 **notosarme/notosarme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
