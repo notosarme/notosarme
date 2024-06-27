@@ -19,7 +19,7 @@
 
 ---
 
-### :pencil: Currently Working On:
+### :pencil: Current WIPs:
 - A portfolio page for myself, created in Astro. ([Preview](https://tjclayton.vercel.app/))
 - An artist gallery and portfolio, created in React. ([Preview](https://deseronii.vercel.app))
 
