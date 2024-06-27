@@ -11,6 +11,8 @@
 - I like learning new things & working within limitations.
 - **Lately:** I've graduated and have been working on moving across Canada.
 
+View my resume PDF [here](https://github.com/notosarme/resume/blob/main/Resume.pdf)!
+
 ---
 
 ### :computer: Things I've Done:
