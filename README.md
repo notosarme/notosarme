@@ -9,6 +9,19 @@
 - Personal interest in game development.
 - Background in interdisciplinary arts.
 - I like learning new things & working within limitations.
+- **Lately:** I've graduated and have been working on moving across Canada.
+
+---
+
+### :computer: Things I've Done:
+- **Wayfinding App for the Visually Impaired:** Worked as the Design Lead for this prototype for the Canadian Aviation and Space Museum. Built in STQRY utilizing Bluetooth and other IoT devices. Preview [here](https://youtu.be/DznL_CGy4j8).
+- **The Online Indie Artists Club:** Created a lightweight resource finding website that is easy for people with low technical skills to understand and update efficiently. Access [here](https://indieartists.club/).
+
+---
+
+### :pencil: Currently Working On:
+- A portfolio page for myself, created in Astro. ([Preview](https://tjclayton.vercel.app/))
+- An artist gallery and portfolio, created in React. ([Preview](https://deseronii.vercel.app))
 
 ---
 
@@ -27,12 +40,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### :pencil: Currently Working On:
-- A portfolio page for myself, created in Astro. ([Preview](https://tjclayton.vercel.app/))
-- An artist gallery and portfolio, created in React. ([Preview](https://deseronii.vercel.app))
   
 <!--
 **notosarme/notosarme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
