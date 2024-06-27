@@ -27,6 +27,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :pencil: Currently Working On:
+- A portfolio page for myself, created in Astro. ([Preview](https://tjclayton.vercel.app/))
+- An artist gallery and portfolio, created in React. ([Preview](https://deseronii.vercel.app))
   
 <!--
 **notosarme/notosarme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
