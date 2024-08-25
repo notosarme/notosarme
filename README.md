@@ -11,19 +11,11 @@
 - I like learning new things & working within limitations.
 - **Lately:** I've graduated and have been working on moving across Canada.
 
-View my resume PDF [here](https://github.com/notosarme/resume/blob/main/Resume.pdf)!
-
 ---
 
 ### :computer: Things I've Done:
 - **Wayfinding App for the Visually Impaired:** Worked as the Design Lead for this prototype for the Canadian Aviation and Space Museum. Built in STQRY utilizing Bluetooth and other IoT devices. Preview [here](https://youtu.be/DznL_CGy4j8).
 - **The Online Indie Artists Club:** Created a lightweight resource finding website that is easy for people with low technical skills to understand and update efficiently. Access [here](https://indieartists.club/).
-
----
-
-### :pencil: Current WIPs:
-- A portfolio page for myself, created in Astro. ([Preview](https://tjclayton.vercel.app/))
-- An artist gallery and portfolio, created in React. ([Preview](https://deseronii.vercel.app))
 
 ---
 
@@ -45,6 +37,12 @@ View my resume PDF [here](https://github.com/notosarme/resume/blob/main/Resume.p
   
 <!--
 **notosarme/notosarme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+### :pencil: Current WIPs:
+- A portfolio page for myself, created in Astro. ([Preview](https://tjclayton.vercel.app/))
+- An artist gallery and portfolio, created in React. ([Preview](https://deseronii.vercel.app))
 
 Here are some ideas to get you started:
 
