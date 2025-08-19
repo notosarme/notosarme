@@ -6,10 +6,9 @@
 
 ### :elf: About Me:
 - Went to school for web & mobile design.
-- Personal interest in game development.
+- Personal interest in game development and small web.
 - Background in interdisciplinary arts.
 - I like learning new things & working within limitations.
-- **Lately:** I've graduated and have been working on moving across Canada.
 
 ---
 
@@ -35,23 +34,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
   
-<!--
-**notosarme/notosarme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-### :pencil: Current WIPs:
-- A portfolio page for myself, created in Astro. ([Preview](https://tjclayton.vercel.app/))
-- An artist gallery and portfolio, created in React. ([Preview](https://deseronii.vercel.app))
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
